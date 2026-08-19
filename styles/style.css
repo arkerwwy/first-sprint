@@ -1,1 +1,42 @@
-/* место для вашего кода */
+.header {
+  display: grid;
+  grid-template-columns: 1fr min-content 1fr;
+  align-items: center;
+  padding: 50px;
+  gap: 30px;
+}
+.menu__list {
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+}
+.menu {
+}
+.menu__list {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  gap: 30px;
+}
+.menu__item-active {
+  margin-left: 20px;
+}
+.menu__item {
+  text-decoration: underline;
+  color: inherit;
+}
+.logo {
+}
+.address {
+}
+.cover {
+}
+.description {
+}
+.button {
+}
+.lots {
+}
+.about {
+}
