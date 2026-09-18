@@ -24,6 +24,7 @@ body {
 .menu__item {
   text-decoration: underline;
   color: inherit;
+  text-underline-offset: 3px;
 }
 
 .logo img {
@@ -275,6 +276,7 @@ body {
 .footer__menu-link {
   color: inherit;
   text-decoration: underline;
+  text-underline-offset: 3px;
 }
 .footer__menu-link_active {
   text-decoration: none;
@@ -297,4 +299,9 @@ body {
 .footer__social-link {
   display: block;
   line-height: 0;
+}
+
+.address__line-link {
+  text-decoration: underline;
+  text-underline-offset: 4px;
 }
