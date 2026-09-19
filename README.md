@@ -1,1 +1,1 @@
-https://github.com/arkerwwy/first-sprint
+https://github.com/arkerwwy/ono-tebe-nado-fd
